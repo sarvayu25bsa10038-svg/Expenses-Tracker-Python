@@ -35,4 +35,5 @@ python src/main.py
 - Export data to Excel
 
 ## Author
-Rishabh Srivastava
+
+Sarvayu Vaidya
